@@ -10,6 +10,8 @@ namespace Conta.API.Models
 		}
 
         public DbSet<Usuario> Usuarios { get; set; }
+
+        public DbSet<Pedido> Pedidos { get; set; }
     }
 }
 

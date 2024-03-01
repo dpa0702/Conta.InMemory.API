@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="../buildMultiTargeting/Conta.API.props" />
+  <Import Project="..\buildMultiTargeting\Conta.API.props" />
 </Project>

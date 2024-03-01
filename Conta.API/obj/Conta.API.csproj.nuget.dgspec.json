@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/demetriosarghirachis/Projects/Conta.InMemory.API/Conta.API/Conta.API.csproj": {}
+    "C:\\Users\\Demetrios\\Source\\Repos\\Conta.InMemory.API\\Conta.API\\Conta.API.csproj": {}
   },
   "projects": {
-    "/Users/demetriosarghirachis/Projects/Conta.InMemory.API/Conta.API/Conta.API.csproj": {
+    "C:\\Users\\Demetrios\\Source\\Repos\\Conta.InMemory.API\\Conta.API\\Conta.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/demetriosarghirachis/Projects/Conta.InMemory.API/Conta.API/Conta.API.csproj",
+        "projectUniqueName": "C:\\Users\\Demetrios\\Source\\Repos\\Conta.InMemory.API\\Conta.API\\Conta.API.csproj",
         "projectName": "Conta.API",
-        "projectPath": "/Users/demetriosarghirachis/Projects/Conta.InMemory.API/Conta.API/Conta.API.csproj",
-        "packagesPath": "/Users/demetriosarghirachis/.nuget/packages/",
-        "outputPath": "/Users/demetriosarghirachis/Projects/Conta.InMemory.API/Conta.API/obj/",
+        "projectPath": "C:\\Users\\Demetrios\\Source\\Repos\\Conta.InMemory.API\\Conta.API\\Conta.API.csproj",
+        "packagesPath": "C:\\Users\\Demetrios\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Demetrios\\Source\\Repos\\Conta.InMemory.API\\Conta.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/demetriosarghirachis/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Demetrios\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,11 +65,11 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[7.0.16, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[7.0.12, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -88,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
