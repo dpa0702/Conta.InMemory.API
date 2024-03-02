@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Demetrios\\Source\\Repos\\Conta.InMemory.API\\Conta.API\\Conta.API.csproj": {}
+    "C:\\Users\\Demetrios\\source\\repos\\Conta.InMemory.API\\Conta.API\\Conta.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Demetrios\\Source\\Repos\\Conta.InMemory.API\\Conta.API\\Conta.API.csproj": {
+    "C:\\Users\\Demetrios\\source\\repos\\Conta.InMemory.API\\Conta.API\\Conta.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Demetrios\\Source\\Repos\\Conta.InMemory.API\\Conta.API\\Conta.API.csproj",
+        "projectUniqueName": "C:\\Users\\Demetrios\\source\\repos\\Conta.InMemory.API\\Conta.API\\Conta.API.csproj",
         "projectName": "Conta.API",
-        "projectPath": "C:\\Users\\Demetrios\\Source\\Repos\\Conta.InMemory.API\\Conta.API\\Conta.API.csproj",
+        "projectPath": "C:\\Users\\Demetrios\\source\\repos\\Conta.InMemory.API\\Conta.API\\Conta.API.csproj",
         "packagesPath": "C:\\Users\\Demetrios\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Demetrios\\Source\\Repos\\Conta.InMemory.API\\Conta.API\\obj\\",
+        "outputPath": "C:\\Users\\Demetrios\\source\\repos\\Conta.InMemory.API\\Conta.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Demetrios\\AppData\\Roaming\\NuGet\\NuGet.Config",

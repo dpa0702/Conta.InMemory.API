@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conta.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d25d4f1204e5ff9300929e6a53334fee76a0080c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb5ab67ea9102632ab7e017306848b38ddd66696")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conta.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conta.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

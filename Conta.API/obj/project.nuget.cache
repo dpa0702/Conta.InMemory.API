@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JBqbp7dun3vEk4feKXuN9+USg64EtJEGTqknYWT5WRjPMALFVCXSCR6Dl60ICITqcMu13Q3UiTwoL2JkK49FwQ==",
+  "dgSpecHash": "xrBdp6tDWfWb8NZyH3y3i7Fc+Fb21wDs8+4w1QMKAp5tBYggRzE5FrEdOXZ/9rXHB3jpLvFgDYSdMux9fZ5pSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Demetrios\\Source\\Repos\\Conta.InMemory.API\\Conta.API\\Conta.API.csproj",
+  "projectFilePath": "C:\\Users\\Demetrios\\source\\repos\\Conta.InMemory.API\\Conta.API\\Conta.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Demetrios\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Demetrios\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
