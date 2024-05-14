@@ -7,12 +7,14 @@
         }
 
         public int Id { get; set; }
-        public Usuario Usuario { get; set; }
+        public int UsuarioId { get; set; }
+        public virtual Usuario Usuario { get; set; } = null!;
         public DateTime DataCriacao { get; set; }
 
-        public Pedido(int id, Usuario usuario)
+        public Pedido(int id, int usuarioId, Usuario usuario)
         {
             Id = id;
+            UsuarioId = usuarioId;
             Usuario = usuario;
             DataCriacao = DateTime.Now;
         }
